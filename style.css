@@ -104,9 +104,40 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 margin-top: -130px;
+align-items: center;
 }
 .f1{margin-left: 80px;}
 .f3{
     margin-right: 70px;
+}
+/* sharing section 3 style */
+.sc3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+.sc3-image{
+    width: 318px;
+height: 420px;
+
+}
+.sc3-heading{
+    color: #272727;
+
+font-size: 40px;
+font-weight: 800;
+
+}
+span{color: palevioletred;}
+.sc3-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+font-weight: 400;
+margin-top: 24px;
+margin-bottom: 14px;
+text-align: left;
 }
 
