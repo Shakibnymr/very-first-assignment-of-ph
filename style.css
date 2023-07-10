@@ -155,4 +155,11 @@ color: #272727;
 text-align: center;
 margin-top: -20px;
 }
-
+/* sharing sc5 style */
+.sc5{
+ display: flex;
+    justify-content: center;
+    margin-top: 100px}
+    .sc5i1{
+        width: 300px;
+    }
