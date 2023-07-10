@@ -3,6 +3,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     margin: 8px;
 }
+/* sharing heading style */
 nav{
 display: flex;
 justify-content: space-around;
@@ -45,6 +46,22 @@ border-radius: 8px;
 background: #E55473;
 margin-top: 10px;
 }
+/* sharing sc1 style */
+.section1{
+    text-align: center;
+    margin-top: 100px;
+}
+.sc1-heading{
+    color: #272727;
+text-align: center;
 
+font-size: 40px;
 
+font-weight: 800;
+}
+.sc1-paragraph{
+    color: #272727;
+margin: 24px 563px 10px 563px;
+
+}
 
