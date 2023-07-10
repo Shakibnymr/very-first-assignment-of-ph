@@ -197,3 +197,23 @@ line-height: 30px;
     border-radius: 8px;
 background: #FFF;
 }
+footer{ 
+   padding: 100px;
+   
+    margin-top: 100px;
+    text-align: center;
+    background-color: #272727;
+    color: white;
+    
+}
+.pinky{
+    color: #E55473;
+}
+.finish{ color: rgba(255, 255, 255, 0.40);
+    
+    
+    font-size: 16px;
+    
+    font-weight: 400;
+
+}
