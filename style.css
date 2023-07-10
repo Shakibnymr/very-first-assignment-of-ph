@@ -163,3 +163,37 @@ margin-top: -20px;
     .sc5i1{
         width: 300px;
     }
+    /* sharing style of sc6 */
+    .alada{
+        display: flex; justify-content: center;
+
+    }
+    .sc6{
+        text-align: center;
+        margin-top: 100px;
+        background-image: url(Rectangle\ 9.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    .sc6-heading{
+        color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+
+    }
+.sc6p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.input{
+    border-radius: 8px;
+background: #FFF;
+}
