@@ -140,4 +140,19 @@ margin-top: 24px;
 margin-bottom: 14px;
 text-align: left;
 }
+/* sharing sc4 style */
+.sc4{margin-top: 150px;}
+.sc4h{
+color: #272727;
+text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+}
+.sc4p{
+color: #272727;
+text-align: center;
+margin-top: -20px;
+}
 
