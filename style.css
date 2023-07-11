@@ -16,7 +16,7 @@ align-items: center;
 }
 .header-image{
     width: 500px;
-    margin: 50px 200px 0 142px;
+    margin: 50px 150px 0 142px;
 
 }
 .header-heading{
@@ -24,7 +24,7 @@ align-items: center;
     
     font-size: 80px;
 
-    font-weight: 800;
+    font-weight: 800; margin-left: 30px;
  margin-right: 97px;}
  .header-content{
     margin-left: 50px;
@@ -38,6 +38,7 @@ font-size: 18px;
 
 font-weight: 400;
 margin-top: -40px;
+margin-left: 30px;
 }
 .primary-button{
     color: #FFF;
@@ -48,7 +49,37 @@ font-weight: 700;
 border-radius: 8px;
 background: #E55473;
 margin-top: 10px;
+margin-left: 30px;
 }
+/* bonus part style */
+.bonus-img{
+width: 900px; height: 550px;}
+
+.q{
+    color: rgb(57, 105, 57);
+    text-align: center;
+
+font-size: 40px;
+
+font-weight: 800;
+}
+
+.bonus{
+display: flex;
+justify-content: space-between;
+margin: 80px 5px 0 30px;
+
+}
+.bonush{text-align: center;
+
+    font-size: 40px;
+    
+    font-weight: 800;
+
+}
+.bonus-content>ul{ font-size: larger;
+color: rgb(80, 90, 62);
+margin-left: 80px;}
 /* sharing sc1 style */
 .section1{
     text-align: center;
@@ -77,14 +108,15 @@ padding: 30px;
 .img1{ ;
     width: 300px;
 height: 400px;
-    border-radius: 300px 300px 0px 0px;
+
+    border-radius: 150px 150px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
 }
 .img2{
     width: 300px;
 height: 400px;
     border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
+    background: rgba(60, 102, 104, 0.15);
 }
 .img3{
     width: 300px;
